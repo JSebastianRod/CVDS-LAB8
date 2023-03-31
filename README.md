@@ -1,3 +1,2 @@
-# CVDS-LAB5
-## Juan Pablo Daza Pinzon
+# CVDS-LAB8
 ## Juan Sebastian Rodriguez Peña
