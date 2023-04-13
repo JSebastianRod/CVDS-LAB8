@@ -15,7 +15,7 @@ public class ConfigurationService {
     
 	private final ConfigurationRepository configurationRepository;
         
-        
+        @Autowired
         public ConfigurationService(ConfigurationRepository configurationRepository) {
             this.configurationRepository = configurationRepository;
         }
